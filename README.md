@@ -31,6 +31,7 @@ write: Write data to an open file.
 
 ls: List all files in the virtual file system.
 
+
 stat: Display statistical information about a file using its name.
 
 fstat: Display statistical information about a file using its file descriptor.
