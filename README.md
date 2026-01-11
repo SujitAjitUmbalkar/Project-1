@@ -1,5 +1,5 @@
-# Project-1
-Customised Virtual File System in C Language 
+# Customised Virtual File System in C Language 
+Project-1st 
 
 This project is a simplified Virtual File System (VFS) implemented in C. It provides a command-line interface to perform basic file system operations such as creating, reading, writing, and deleting files within a virtual environment. This project is a great learning tool for understanding fundamental file system concepts like inodes, superblocks, and file descriptors.
 
